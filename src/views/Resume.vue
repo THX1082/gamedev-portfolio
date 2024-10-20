@@ -14,13 +14,12 @@
       <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
+        <a class="download-link" href="d/Lee Brewington - 2024 Roblox Resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
         <div style="clear:both"></div>
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-photo.png" alt="Photo of Lee" />
     </div>
 
     <div style="clear:both"></div>
@@ -53,13 +52,13 @@
 
       <div class="skill-set">
         <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
+        <SkillRate name="Lua/Luau" :rate="5" />
+        <SkillRate name="Promises" :rate="5" />
+        <SkillRate name="Maids" :rate="5" />
+        <SkillRate name="Signals" :rate="5" />
+        <SkillRate name="Knit" :rate="5" />
+        <SkillRate name="Roblox API" :rate="5" />
+        <SkillRate name="UI" :rate="5" />
       </div>
 
       <div class="skill-set">

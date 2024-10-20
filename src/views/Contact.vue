@@ -12,11 +12,11 @@
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:my@email.com" target="_blank">my@email.com</a>
+        <a href="mailto:brewington7@hotmail.com" target="_blank">brewington7@hotmail.com</a>
       </li>
       <li>
         <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/in/lee-brewington-757ab54b/" target="_blank">https://www.linkedin.com/in/lee-brewington-757ab54b/</a>
+        <a href="https://www.linkedin.com/in/lee-brewington-757ab54b" target="_blank">https://www.linkedin.com/in/lee-brewington-757ab54b</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
