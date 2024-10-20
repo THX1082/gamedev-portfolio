@@ -4,17 +4,17 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Lee Brewington</strong>, a software and game developer with over 20 years of experience.<br/>
+        I have a passion for learning, gaming, and problem solving.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">I've worked on some <router-link to="/game-projects">solo games</router-link>, on some <router-link to="/other-projects">commissions</router-link>, and took part in some <router-link to="/resume">game jams</router-link> as well.</div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">I'm <strong>currently looking</strong> for a full-time position with an established Roblox Game Studio. You can reach me at <a href="mailto:brewington7@hotmail.com">brewington7@hotmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/avatar.png" alt="Avatar of DJX" /> 
     </div>
 
     <div style="clear:both"></div>
