@@ -16,7 +16,7 @@
       </li>
       <li>
         <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/me" target="_blank">linkedin.com/me</a>
+        <a href="https://www.linkedin.com/in/lee-brewington-757ab54b/" target="_blank">https://www.linkedin.com/in/lee-brewington-757ab54b/</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
