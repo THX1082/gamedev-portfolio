@@ -5,7 +5,7 @@
     <div class="paragraph">
       <div>
         I'm <strong>Lee Brewington</strong>, a software and game developer with over 20 years of experience.<br/>
-        I have a passion for learning, gaming, and problem solving.
+        I have a passion for learning, gaming, and problem solving. My focus in all 3 has been Roblox for the last 7 years.
       </div>
 
       <div style="margin-top: 20px;">I've worked on some <router-link to="/game-projects">solo games</router-link>, on some <router-link to="/other-projects">commissions</router-link>, and took part in some <router-link to="/resume">game jams</router-link> as well.</div>
